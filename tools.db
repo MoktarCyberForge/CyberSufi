@@ -1,0 +1,32 @@
+# أدوات جمع المعلومات (11-150)
+11|1|ReconSpider|git clone https://github.com/bhavsec/reconspider.git && cd reconspider && pip install -r requirements.txt|python reconspider.py
+12|1|Red Hawk|git clone https://github.com/Tuhinshubhra/RED_HAWK.git && cd RED_HAWK|php rhawk.php
+13|1|InfogaX|git clone https://github.com/p4kl0nc4t/Infoga.git && cd Infoga && pip install -r requirements.txt|python infoga.py
+14|1|DMitry|pkg install dmitry -y|dmitry
+15|1|Sublist3r|git clone https://github.com/aboul3la/Sublist3r.git && cd Sublist3r && pip install -r requirements.txt|python sublist3r.py
+...
+150|1|Netdiscover|pkg install netdiscover -y|netdiscover
+
+# أدوات الاستغلال (161-250)
+161|2|Drozer|git clone https://github.com/WithSecureLabs/drozer.git && cd drozer && pip install -r requirements.txt|drozer console connect
+162|2|Websploit|git clone https://github.com/websploit/websploit.git && cd websploit && chmod +x websploit|python websploit
+...
+250|2|ExploitPack|git clone https://github.com/juansacco/exploitpack.git && cd exploitpack|./exploitpack
+
+# أدوات كلمات المرور (261-350)
+261|3|Wordlist-Generator|git clone https://github.com/initstring/passphrase-wordlist.git && cd passphrase-wordlist|python3 generate.py
+262|3|GetAllPass|git clone https://github.com/KasRoudra/GetAllPass.git && cd GetAllPass|bash get.sh
+...
+350|3|Pipal|git clone https://github.com/digininja/pipal.git && cd pipal|perl pipal.rb
+
+# أدوات الشبكات اللاسلكية (361-400)
+361|4|Wifijammer|git clone https://github.com/DanMcInerney/wifijammer.git && cd wifijammer|python wifijammer.py
+362|4|Fluxion|git clone https://github.com/FluxionNetwork/fluxion.git && cd fluxion|bash fluxion.sh
+...
+400|4|WifiPumpkin3|git clone https://github.com/P0cL4bs/WiFi-Pumpkin.git && cd WiFi-Pumpkin && python setup.py install|wifi-pumpkin
+
+# أدوات الحماية والأنظمة (411-500)
+411|5|Chkservice|git clone https://github.com/linuxenko/chkservice.git && cd chkservice && make && make install|chkservice
+412|5|Bastille|git clone https://github.com/JoeDog/bastille.git && cd bastille && ./install.sh|bastille -c
+...
+500|5|OpenVAS|pkg install openvas -y || git clone https://github.com/greenbone/openvas.git && cd openvas && mkdir build && cd build && cmake .. && make && make install|openvas-check-setup
