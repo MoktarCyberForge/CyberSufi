@@ -1,12 +1,4 @@
-
-_______        _               _____       __  _  _           
-  / ____(_)      | |             / ____|     / _|(_)| |          
- | |     _   ___ | |__    ___   | (___     _| |_  _ | | ___  ___ 
- | |    | | / __|| '_ \  / _ \   \___ \   |_   _|| || |/ __|/ _ \
- | |____| || (__ | | | || (_) |  ____) |    | |  | || |\__ \  __/
-  \_____/|_| \___||_| |_| \___/  |_____/     |_|  |_||_||___/\___|
-                                                                  
-                CyberSufi 🔮 - Terminal Hacking Arsenal
+![CyberSufi Logo](https://cdn-icons-png.flaticon.com/512/3062/3062631.png)
 🧠 CyberSufi 🔮
 
 CyberSufi is a professional Bash-based cyber arsenal installer. It brings together 500+ top-tier cybersecurity tools organized across 10 categories — all in a blazing fast CLI experience.
