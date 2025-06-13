@@ -1,4 +1,4 @@
-![CyberSufi Logo](https://cdn-icons-png.flaticon.com/512/3062/3062631.png)
+![CyberSufi Logo](https://blogger.googleusercontent.com/img/a/AVvXsEiBC4FBlneGvy0_BBSLiSmZ3D3NUJ0D_kSIPXcOnEqEQfY8447iujt65F7lsOnC27AL0Qxm973zB)
 🧠 CyberSufi 🔮
 
 CyberSufi is a professional Bash-based cyber arsenal installer. It brings together 500+ top-tier cybersecurity tools organized across 10 categories — all in a blazing fast CLI experience.
