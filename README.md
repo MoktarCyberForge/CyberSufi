@@ -1,4 +1,4 @@
-![CyberSufi Logo](https://blogger.googleusercontent.com/img/a/AVvXsEiBC4FBlneGvy0_BBSLiSmZ3D3NUJ0D_kSIPXcOnEqEQfY8447iujt65F7lsOnC27AL0Qxm973zB)
+![CyberSufi Logo](https://blogger.googleusercontent.com/img/a/AVvXsEgyBk20nHxDKSde3uC-4vLSm5UvBvJvOc-tyMSO5v1AP1CQPuJ0qGrDCiHg2Y0Mdu990zSiu2MD_Vfu0Lg8pcR7eftAYEgjwataxD0EUDTuOptKexjiyyAmCtIgwnj_NvOyw9HO-s8lgIjfJ8yz_xrXrylnx_20-ywpUpj7eVamUp6ododfvvU09UKmj9w=s1600)
 🧠 CyberSufi 🔮
 
 CyberSufi is a professional Bash-based cyber arsenal installer. It brings together 500+ top-tier cybersecurity tools organized across 10 categories — all in a blazing fast CLI experience.
